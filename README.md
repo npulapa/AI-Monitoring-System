@@ -19,6 +19,12 @@ This project detects and tracks faces using webcam.
 - Face detection
 - Face tracking
 - Alert when face not detected
+  
+## 🔍 YOLOv8 Object Detection
+
+- Detects objects in real-time
+- Counts number of people in frame
+- Uses pretrained YOLOv8 model
 
 ## 📷 Output
 (Add your screenshots here)
