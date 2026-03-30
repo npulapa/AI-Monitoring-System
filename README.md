@@ -11,8 +11,9 @@ This project detects and tracks faces using webcam.
 ## ▶️ How to Run
 1. Install dependencies:
    pip install -r requirements.txt
+   pip install ultralytics
 
-2. Run:
+3. Run:
    python face_detection.py
 
 ## 🎯 Features
