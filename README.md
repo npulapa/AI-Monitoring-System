@@ -52,6 +52,7 @@ It demonstrates the use of Computer Vision, Object Detection, Backend APIs, and 
 ### 1. Install Dependencies
 ```bash
 pip install -r requirements.txt
+pip install opencv-python ultralytics fastapi uvicorn
 
 ### 2. Run Face Detection
 ```bash
